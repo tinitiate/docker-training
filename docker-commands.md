@@ -3,7 +3,7 @@
 ## docker info
 * Gets basic information about Docker configuration
 ```bash
-$ docker info
+docker info
 ```
 
 
